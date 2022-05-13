@@ -53,3 +53,5 @@ Esto es un texto con ~~strikethrough~~
 <!--To Do List-->
 * [x] Tarea 1
 * [ ] Tarea 2
+<!--Menciones-->
+@edamott :metal: :trollface:
