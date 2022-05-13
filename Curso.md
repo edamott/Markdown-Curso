@@ -52,4 +52,4 @@ Esto es un texto con ~~strikethrough~~
 <!--Reglas de GITHUB-->
 <!--To Do List-->
 * [x] Tarea 1
-* [] Tarea 2
+* [ ] Tarea 2
